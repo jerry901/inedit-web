@@ -1,0 +1,8 @@
+- 메인 메뉴 마우스 오버 방식 : 
+	마우스가 오버되면 class 이름에 ' on'(공백 포함)을 붙인다. 
+	그리고 css에서 클래스 정보를 통해 네비게이션 바 show/hide를 변경한다. 
+	inedit 홈페이지에서는  suffix를 active로 달 것
+
+- li, ul 태그 불릿, 들여쓰기 없애기 등등 : https://biju.tistory.com/256
+- li, ul 태그 가로로 배열하기 : https://blog.outsider.ne.kr/111
+- class naming rule : https://short-short-long.tistory.com/10							
